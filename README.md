@@ -7,6 +7,7 @@ This repository tracks training with local Git and append-only CSV logs.
 ```text
 training/
   data/
+    body_check_log.csv
     strength_log.csv
     strength_pr.csv
     run_log.csv
