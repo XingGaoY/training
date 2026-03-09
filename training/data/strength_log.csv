@@ -1,0 +1,24 @@
+date,week,session,exercise,variant,load_kg,reps,sets,rir_last,rpe_last,rest_min,notes
+2026-03-07,2026-W10,heavy_bench,bench_press,competition,32.5,5,2,,,4,"warm-up: 20x8;25x5;27.5x3;30x1;32.5x1"
+2026-03-07,2026-W10,heavy_bench,bench_press,competition,32.5,6,1,1,9,4,"last set had visible sticking but completed"
+2026-03-07,2026-W10,heavy_bench,lat_pulldown,hammer_pronated,45,12,3,,,,"next time: add load and reduce reps"
+2026-03-07,2026-W10,heavy_bench,seated_row,machine,13,12,3,,,,"next time: add load and reduce reps"
+2026-03-07,2026-W10,heavy_bench,leg_extension,seated,33,10,3,,,,
+2026-03-07,2026-W10,heavy_bench,cable_external_rotation,single_arm,5,8,2,,,,
+2026-03-07,2026-W10,heavy_bench,cable_external_rotation,single_arm,2.5,12,2,,,,
+2026-03-06,2026-W10,heavy_squat,squat,competition,55,5,3,,,3,"warm-up: 20x8;30x5;40x3;47.5x2;52.5x1;55x1; bottom position felt hard to stand, movement consistency dropped; reported RIR > 2"
+2026-03-06,2026-W10,heavy_squat,romanian_deadlift,barbell,37.5,12,3,,,,"fatiguing but good; likely high volume; next time add load and reduce reps"
+2026-03-06,2026-W10,heavy_squat,lunge,dumbbell,10,20,3,,,,"5kg each hand; alternating legs; 10 reps each leg (20 total) per set"
+2026-03-06,2026-W10,heavy_squat,pallof_press,cable_left,7.5,12,1,,,,
+2026-03-06,2026-W10,heavy_squat,pallof_press,cable_right,7.5,12,1,,,,
+2026-03-06,2026-W10,heavy_squat,pallof_press,cable_left,10,12,1,,,,
+2026-03-06,2026-W10,heavy_squat,pallof_press,cable_right,10,12,1,,,,
+2026-03-05,2026-W10,light_bench,face_pull,single_arm,2.5,12,4,,,,"left/right: 2 sets each"
+2026-03-05,2026-W10,light_bench,cable_external_rotation,single_arm,2.6,8,4,,,,"left/right: 2 sets each"
+2026-03-05,2026-W10,light_bench,bench_press,competition,27.5,7,2,,,1,"warm-up: 20x8;25x5; run canceled due to weather and made up on 2026-03-06"
+2026-03-05,2026-W10,light_bench,bench_press,competition,27.5,8,1,0,10,1,
+2026-03-05,2026-W10,light_bench,lat_pulldown,high_cable,13,10,3,,,,
+2026-03-03,2026-W10,heavy_deadlift,deadlift,conventional,60,5,3,2,8,3.5,"warm-up: 20x5;30x3;40x3;50x1;55x1;60x2; source stated RIR > 1, normalized to RIR=2"
+2026-03-03,2026-W10,heavy_deadlift,hip_abduction,machine,40.4,10,3,,,,"source load: 89 lbs"
+2026-03-03,2026-W10,heavy_deadlift,dumbbell_shoulder_press,seated,7.5,12,3,,,,"each hand; reported RIR > 2"
+2026-03-03,2026-W10,heavy_deadlift,face_pull,cable,5,12,3,,,,
