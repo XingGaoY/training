@@ -8,6 +8,7 @@ This repository tracks training with local Git and append-only CSV logs.
 training/
   data/
     body_check_log.csv
+    plan_log.csv
     strength_log.csv
     strength_pr.csv
     run_log.csv
@@ -30,4 +31,6 @@ git commit -m "log: YYYY-MM-DD training update"
 ## Source of Truth
 
 - Historical training facts and PRs must come from CSV files in `training/data/`.
+- Planned sessions and completion status should be tracked in `training/data/plan_log.csv`.
+- Use `plan_log.csv` to connect plan, actual completion, recovery notes, and next-step decisions.
 - Do not invent history outside CSV + current user message context.

@@ -22,7 +22,7 @@ date,week,session,exercise,variant,load_kg,reps,sets,rir_last,rpe_last,rest_min,
 2026-03-03,2026-W10,heavy_deadlift,hip_abduction,machine,40.4,10,3,,,,"source load: 89 lbs"
 2026-03-03,2026-W10,heavy_deadlift,dumbbell_shoulder_press,seated,7.5,12,3,,,,"each hand; reported RIR > 2"
 2026-03-03,2026-W10,heavy_deadlift,face_pull,cable,5,12,3,,,,
-2026-03-10,2026-W11,heavy_deadlift,deadlift,conventional,62.5,5,3,7,,3.5,"warm-up: 20x8;30x5;40x3;50x1;67.5x1 (plate misload);62.5x1; no rep drop; preload drifted into bar break from floor"
+2026-03-10,2026-W11,heavy_deadlift,deadlift,conventional,62.5,5,3,,7,3.5,"warm-up: 20x8;30x5;40x3;50x1;67.5x1 (plate misload);62.5x1; no rep drop; preload drifted into bar break from floor"
 2026-03-10,2026-W11,heavy_deadlift,hip_abduction,machine,40,10,3,,,,
 2026-03-10,2026-W11,heavy_deadlift,dumbbell_shoulder_press,seated,10,8,1,,,,"each hand"
 2026-03-10,2026-W11,heavy_deadlift,dumbbell_shoulder_press,seated,7.5,12,2,,,,"each hand"
