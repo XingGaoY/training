@@ -1,5 +1,12 @@
 # Training Notes
 
+## Profile
+
+- Name: `xinggao`
+- Sex: male
+- Birth: `1994-07`
+- Height baseline: `175 cm`
+
 ## Current Weekly Structure (3 run + 3 strength, strength-first)
 
 - Mon: run + light bench (volume/technique)
@@ -48,6 +55,7 @@
 - CSV is the only historical source of truth.
 - Logs are append-only whenever possible.
 - Week format: `YYYY-Www` (example: `2026-W10`).
+- This note file and all related CSV logs belong to `training/people/xinggao/`.
 - Planned sessions should also be recorded in `plan_log.csv` so plan vs. completion can be reviewed later.
 - Suggested `plan_log.csv` usage:
   - `planned_main`: main lift or main session prescription
@@ -65,7 +73,6 @@
 ## 2026 Goals (Updated 2026-03-09)
 
 - Bodyweight baseline: `81.5 kg`
-- Height baseline: `175 cm`
 - Body composition goal: reduce central fat while gaining/maintaining muscle
 - Strength goal by `2026-10-01`: SBD total `250 kg`
 - Running goals:
