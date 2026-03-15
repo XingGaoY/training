@@ -77,6 +77,31 @@
 - 面拉、弹力带一侧拉: prioritize stable execution before increasing load.
 - 哑铃卧推: progress separately from the other lifts.
 
+## Suggested Plan B (If RDL Is Removed)
+
+- Replace `杠铃罗马尼亚硬拉` with `坐姿腿弯举` and `保加利亚分腿蹲`.
+
+### Suggested Upper-Body-Emphasis Day Plan B
+
+- 深蹲: `20kg x 10-12 x 2`
+- 坐姿腿弯举: `12-15 x 3`
+- 宽距高位下拉: `13.5kg x 8-12 x 4`
+- 坐姿划船: `22.5kg x 8-12 x 4`
+- 哑铃卧推: `(5+5)kg x 10-12 x 1`, `(7.5+7.5)kg x 6-8 x 2`, `(5+5)kg x 10-12 x 1`
+- 面拉: `2.5kg x 12-15 x 3`
+- 弹力带一侧拉: `2.5kg x 12-15 x 2-3`
+
+### Suggested Lower-Body-Emphasis Day Plan B
+
+- 深蹲热身: `20kg x 8`, `25kg x 5`, `27.5kg x 1`
+- 深蹲正式组: `30kg x 5 x 3`
+- 坐姿腿弯举: `10-12 x 3`
+- 保加利亚分腿蹲: `8-10 x 2-3 / side`
+- 宽距高位下拉: `9.5kg x 8-10 x 2-3`
+- 坐姿划船: `9.5kg x 8-10 x 2-3`
+- 哑铃卧推: `(5+5)kg x 8-10 x 2`
+- 面拉: `2.5kg x 12-15 x 2`
+
 ## Logging Rules
 
 - CSV is the only historical source of truth.

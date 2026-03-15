@@ -1,1 +1,3 @@
 date,week,run_type,distance_km,duration_min,avg_hr,max_hr,rpe,elevation_m,surface,weather_c,notes
+2026-03-12,2026-W11,treadmill,,24.3,121,,,,,,"raw duration 24'19''; average cadence 105 spm"
+2026-03-15,2026-W11,treadmill,,16,115,123,,,,,,"treadmill session"

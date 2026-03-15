@@ -1,1 +1,18 @@
 date,week,session,exercise,variant,load_kg,reps,sets,rir_last,rpe_last,rest_min,notes
+2026-03-15,2026-W11,full_body_emphasis,squat,competition,30,7,1,,,,"warm-up: 20x8;25x5;27x1;30x1"
+2026-03-15,2026-W11,full_body_emphasis,squat,competition,30,8,1,,,,
+2026-03-15,2026-W11,full_body_emphasis,squat,competition,30,9,1,,,,
+2026-03-15,2026-W11,full_body_emphasis,lat_pulldown,wide_grip,25,6,1,,,,
+2026-03-15,2026-W11,full_body_emphasis,lat_pulldown,wide_grip,30,6,1,,,,
+2026-03-15,2026-W11,full_body_emphasis,lat_pulldown,wide_grip,30,12,3,,,,
+2026-03-15,2026-W11,full_body_emphasis,dumbbell_bench_press,flat,12,8,1,,,,"source format: (6+6)kg x 8"
+2026-03-15,2026-W11,full_body_emphasis,barbell_bench_press,flat,15,8,3,,,,
+2026-03-15,2026-W11,full_body_emphasis,assisted_pull_up,machine,50,8,1,,,,"assistance load"
+2026-03-15,2026-W11,full_body_emphasis,assisted_pull_up,machine,45,8,3,,,,"assistance load"
+2026-03-15,2026-W11,full_body_emphasis,leg_curl,seated,11.8,12,3,,,,"source load: 26 lbs"
+2026-03-15,2026-W11,full_body_emphasis,bulgarian_split_squat,dumbbell,7.5,8,3,,,,
+2026-03-15,2026-W11,full_body_emphasis,seated_row,machine,0,8,2,,,,"track row"
+2026-03-15,2026-W11,full_body_emphasis,seated_row,machine,10,8,1,,,,"track row"
+2026-03-15,2026-W11,full_body_emphasis,band_single_side_pull,band,5,12,6,,,,
+2026-03-15,2026-W11,full_body_emphasis,hip_abduction,seated,24.9,12,1,,,,"source load: 55 lbs"
+2026-03-15,2026-W11,full_body_emphasis,hip_abduction,seated,29.9,12,2,,,,"source load: 66 lbs"

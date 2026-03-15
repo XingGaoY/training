@@ -27,3 +27,20 @@ date,week,session,exercise,variant,load_kg,reps,sets,rir_last,rpe_last,rest_min,
 2026-03-10,2026-W11,heavy_deadlift,dumbbell_shoulder_press,seated,10,8,1,,,,"each hand"
 2026-03-10,2026-W11,heavy_deadlift,dumbbell_shoulder_press,seated,7.5,12,2,,,,"each hand"
 2026-03-10,2026-W11,heavy_deadlift,face_pull,cable,5,12,3,,,,
+2026-03-12,2026-W11,light_bench,face_pull,cable,5,12,2,,,,
+2026-03-12,2026-W11,light_bench,cable_external_rotation,single_arm,2.5,10,4,,,,"band/cable external rotation as reported"
+2026-03-12,2026-W11,light_bench,bench_press,competition,27.5,8,3,,,3,"warm-up: 20x8;25x5; felt fairly easy; last-set reported intensity noted as 'RPE 6-7'; previous light-bench failure may have been due to low carbohydrate intake"
+2026-03-12,2026-W11,light_bench,assisted_pull_up,machine,51,8,1,,,"1.5","assistance load"
+2026-03-12,2026-W11,light_bench,assisted_pull_up,machine,56,8,1,,,"1.5","assistance load"
+2026-03-12,2026-W11,light_bench,assisted_pull_up,machine,60,8,1,,,"1.5","assistance load; very hard, especially biceps; final reps did not clear chin over bar; next-day biceps DOMS"
+2026-03-15,2026-W11,deadlift_plus_bench,deadlift,conventional,62.5,5,3,,,3.5,"warm-up: 20x5;30x3;40x2;50x1;57.5x1;62.5x1; felt good"
+2026-03-15,2026-W11,deadlift_plus_bench,bench_press,competition,33.5,5,3,,7,3,"warm-up: 20x5;25x4;30x1;33.5x1; had visible grind; next time may be ready for 35"
+2026-03-15,2026-W11,deadlift_plus_bench,hip_abduction,machine,29.9,12,1,,,,"source load: 66 lbs"
+2026-03-15,2026-W11,deadlift_plus_bench,hip_abduction,machine,34.9,12,2,,,,"source load: 77 lbs"
+2026-03-15,2026-W11,deadlift_plus_bench,lat_pulldown,machine,38.6,8,1,,,,"source load: 85 lbs"
+2026-03-15,2026-W11,deadlift_plus_bench,lat_pulldown,machine,45.4,8,1,,,,"source load: 100 lbs"
+2026-03-15,2026-W11,deadlift_plus_bench,lat_pulldown,machine,38.6,12,1,,,,"source load: 85 lbs"
+2026-03-15,2026-W11,deadlift_plus_bench,dumbbell_shoulder_press,seated,8,8,2,,,,"each hand"
+2026-03-15,2026-W11,deadlift_plus_bench,dumbbell_shoulder_press,seated,8,12,1,,,,"each hand"
+2026-03-15,2026-W11,deadlift_plus_bench,seated_row,machine,10,12,3,,,,"track row; machine self-weight not included"
+2026-03-15,2026-W11,deadlift_plus_bench,cable_external_rotation,single_arm,5,12,6,,,,
